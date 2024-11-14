@@ -183,10 +183,11 @@ Steps for simulation – Run the simulation command with simulator options
 
 
 ## Fig 9: Design Browser window for simulation
-![image](https://github.com/user-attachments/assets/a9d4ce6f-73e1-436d-b8c5-1d880c4c5e97)
+![image](https://github.com/user-attachments/assets/7d3a9dd3-1dab-45bd-bcef-5a30f3af4dad)
 
 ## Fig 10:Simulation Waveform Window
-![image](https://github.com/user-attachments/assets/7d3a9dd3-1dab-45bd-bcef-5a30f3af4dad)
+![image](https://github.com/user-attachments/assets/a9d4ce6f-73e1-436d-b8c5-1d880c4c5e97)
+
 
 
 
