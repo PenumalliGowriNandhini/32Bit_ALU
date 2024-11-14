@@ -1,4 +1,4 @@
-# 32Bit_ALU Simulation
+![image](https://github.com/user-attachments/assets/da4cd561-8d21-4d81-8907-261dd1487d12)# 32Bit_ALU Simulation
 
 # Aim: 
 
@@ -59,6 +59,8 @@ source /cadence/install/cshrc (mention the path of the tools)
 (The path of cshrc could vary depending on the installation destination)
       
 After this you can see the window like below 
+![WhatsApp Image 2024-11-14 at 13 44 13_4f506a83](https://github.com/user-attachments/assets/cbe911f0-1b10-48c2-83bf-c0c8a06f23a0)
+
 
 ### Fig 2: Invoke the Cadence Environment
 
@@ -72,6 +74,8 @@ or
 
 
 It will invoke the nclaunch window for functional simulation we can compile,elaborate and simulate it using Multiple Step .
+![WhatsApp Image 2024-11-14 at 13 45 10_3c210f72](https://github.com/user-attachments/assets/6505a915-de83-4c91-9c49-a1955e9b7e71)
+
 
 ### Fig 3: Setting Multi-step simulation
 
@@ -100,6 +104,8 @@ Left side you can see the HDL files. Right side of the window has worklib and sn
 Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation .
 
 To perform the function simulation, the following three steps are involved Compilation, Elaboration and Simulation. 
+![WhatsApp Image 2024-11-14 at 13 47 59_1697016c](https://github.com/user-attachments/assets/d8801e4e-6a21-4a13-9a5b-e5968790f078)
+
 
 ### Fig 6: Nclaunch Window
 
@@ -126,6 +132,7 @@ Left side select the file and in Tools : launch verilog compiler with current se
 Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation 
 
 ### Fig 7: Compiled database in worklib
+![image](https://github.com/user-attachments/assets/57cd4c0d-dbd1-4c33-982a-3795f0675a69)
 
 After compilation it will come under worklib you can see in right side window
 
@@ -172,12 +179,17 @@ Outputs: Simulation log file, waveforms for debugging
 Simulation allow to dump design and test bench signals into a waveform 
 
 Steps for simulation – Run the simulation command with simulator options
+![image](https://github.com/user-attachments/assets/80063054-a556-490d-8a40-2db5f86ad054)
+
 
 ## Fig 9: Design Browser window for simulation
+![image](https://github.com/user-attachments/assets/a9d4ce6f-73e1-436d-b8c5-1d880c4c5e97)
 
 ## Fig 10:Simulation Waveform Window
+![image](https://github.com/user-attachments/assets/7d3a9dd3-1dab-45bd-bcef-5a30f3af4dad)
 
-## Fig 11:Simulation Waveform Window
+
+
 
 
 
